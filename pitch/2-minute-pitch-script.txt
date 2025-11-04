@@ -1,0 +1,24 @@
+KasiKoin — 2-minute Hackathon Pitch (tightened)
+
+[0:00] Hook — 15s
+Hi — imagine a young tutor in Soweto receiving stable, instant payments from learners across South Africa without a bank and with near-zero fees. That’s KasiKoin: a mobile-first, ZAR-pegged stablecoin and payments stack for township creators.
+
+[0:15] Problem — 20s
+Creators in the kasi face volatile income, 5–10% remittance/platform fees, and limited bank access or data. Many rely on cash, which is risky and excludes them from digital markets.
+
+[0:35] What we build — 25s
+KasiKoin provides a ZAR-pegged token on a mobile-first chain (Celo), low-fee QR and SMS payments, multilingual assistant Thando for onboarding, milestone-based escrow, and simple NFT minting for cultural content.
+
+[1:00] How it works — 25s
+- Buyers top up at agents or with mobile money; KASI is minted 1:1 with ZAR reserves.
+- Creators receive tips and sales via QR or SMS; withdrawals use local agents with one-time codes.
+- Escrow releases funds on milestone completion; content is stored on IPFS and sold as NFTs.
+
+[1:25] Impact & traction — 20s
+We reduce fees to <0.5% on-platform, enable instant earnings for youth and disabled creators, and create new income streams via digital goods and NFTs. In pilot projection: 500 creators, 2,000 monthly transactions in 6 months.
+
+[1:45] Ask — 15s
+We’re seeking pilot partners (agent network and creators), $50k to run a Soweto pilot, and introductions to regulatory mentors. With you, we can validate, iterate, and scale.
+
+[2:00] Close
+KasiKoin — stabilise earnings, preserve culture, sell globally. Demo & contact: [your demo link / email]
