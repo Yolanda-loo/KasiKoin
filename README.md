@@ -177,5 +177,5 @@ xcrun simctl spawn booted log stream --level debug --predicate 'process == "Kasi
 - [ ] Add real Celo contract integration
 - [ ] Implement full withdrawal flow
 - [ ] Add transaction history pagination
-
+#How to run the code 
 "%LOCALAPPDATA%\Android\Sdk\platform-tools\adb.exe" devices
